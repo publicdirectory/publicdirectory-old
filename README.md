@@ -9,7 +9,7 @@ Here are the details behind it:
 
 
 ---
-### To Add Your Handles or Edit Them
+## To Add Your Handles or Edit Them
 
 1) Fill out this form: https://forms.gle/by6GPy99oRZNXcC36
 
@@ -18,7 +18,7 @@ You can check that the form posted here: https://docs.google.com/spreadsheets/d/
 2) Or, if you're a software developer and know how to do this, you can create a pull request for this repository
 
 
-### To Opt-Out of This Directory
+## To Opt-Out of This Directory
 
 Email us at publicreaderco@gmail.com
 
@@ -30,12 +30,13 @@ https://mas.to/@publicreader
 https://twitter.com/publicreader_
 
 ---
-### FAQs
+## FAQs
 
-#### Who are you? Why are you doing this?
+### Who are you? Why are you doing this?
+
 We are an informal collective of online activists who want to preserve and enhance the open internet. We are not taking any financial compensation for this. This is a free, public, (and hopefully delightful!) open-source effort.
 
-#### How can I help?
+### How can I help?
 
 1) Please spread the word on your socials that this project exists, and please encourage your friends and colleagues to add their info in the form here: https://forms.gle/by6GPy99oRZNXcC36
 2) If you're a developer, we would love your help in coming up with a nice search and browsing UI for this directory.
@@ -58,6 +59,12 @@ This is a really important question. To minimize potential abuse and harassment 
 ### How will you deal with duplicate records?
 
 We use Twitter handles as the key to merge duplicate records.
+
+### Why is the directory one big CSV file?
+
+Text records are small. For maximum utilization/compatibility across the Internet, it makes sense to simply keep everything in CSV/plain text files rather than to set up a full database. 
+
+But certainly a JSON/database/API version of the directory can be set up as needed to replicate or add more functionality to the text record.
 
 ### Any other questions?
 
