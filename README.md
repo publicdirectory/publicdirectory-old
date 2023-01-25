@@ -50,7 +50,7 @@ This directory is MIT licensed. Here's what that means, from Wikipedia: "The MIT
 
 ### How often will the directory get updated?
 
-We will look to update it once a day with new submissions. 
+We will look to update it as we get new submissions. 
 
 ### What is your policy on abuse, harrassement, and free speech?
 
